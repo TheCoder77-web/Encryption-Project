@@ -134,10 +134,10 @@ class Main {
     
         // Changing it back to its original style process
         for(int i = binary.length()-1; i>=0; i--){
-          char bit = binary.charAt(i);
+          char bi = binary.charAt(i);
         
           // Reverse calculation part 
-          if(bit == '1'){
+          if(bi == '1'){
             ascii += num;
           }
           num *= 2;
