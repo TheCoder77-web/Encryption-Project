@@ -1,4 +1,4 @@
-// Leo and Ruien's Projecg
+// Leo and Ruien's Encryption Project
 
 class Main {
   public static void main(String[] args) {
